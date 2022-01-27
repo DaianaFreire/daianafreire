@@ -2,7 +2,7 @@
 
 - 🔭 Hoje eu estou trabalhando com Front End
 - 📖 Estudante de Sistema de Informação 
-- 🌱 Estudando Html5, CSS3, JavaScript e Git
+- 🌱 Estudando Html5, CSS3, JavaScript, React
 - 😄 Pronouns: Ela/Dela
 
 <div align="center">
