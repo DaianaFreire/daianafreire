@@ -1,9 +1,9 @@
-### Olá!!!! Eu sou a Daiana Freire 👋
+### Bem-vindo ao meu perfil! Eu sou a Daiana Freire 👋
 
-- 🔭 Hoje eu estou trabalhando com Front End
-- 📖 Estudante de Sistema de Informação 
-- 🌱 Estudando Html5, CSS3, JavaScript, React
-- 😄 Pronouns: Ela/Dela
+- 🔭 Sou uma aspirante a desenvolvedora Front End
+- 📚 Atualmente, sou estudante de Sistema de Informação 
+- 🌱 Atualmente, estou explorando as maravilhas do HTML5, CSS3, JavaScript e Java
+- 😄 Pronomes: Ela/Dela 
 
 <div align="center">
   <a href="https://github.com/daianafreire">
